@@ -1,0 +1,2 @@
+#/bin/bash
+docker run -it -v /home/gungdr/Project/node/app:/myapp -p 80:3000 react /bin/bash
